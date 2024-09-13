@@ -1,4 +1,4 @@
-# STA220
+# STA220 (2024)
 Genre Playlist Prediction through Lyrical Analysis
 
 This project explores the feasibility of classifying songs into genre-specific playlists based solely on their lyrical content. By leveraging the Spotify Web API, Genius API, and Natural Language Processing techniques, including the Word2Vec model, I analyzed playlist data and song lyrics across various genres and languages, focusing on English and Korean songs. The results demonstrate that while cross-language genre classification remains challenging, the classification accuracy within the same language (English) is notably high, suggesting the potential of lyrics-based approaches for genre prediction. Despite limitations such as limited samples and genre overlap, this project has sparked my interest in further refining the approach. Rather than being a one-time endeavor, I emphasize my commitment to periodically updating and expanding the project, incorporating different languages and genres, and recognizing the significant potential of lyrical content in personalized music recommendations and genre classification.
